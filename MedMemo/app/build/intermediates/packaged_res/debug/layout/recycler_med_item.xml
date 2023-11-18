@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginVertical="8dp"
+    android:background="@drawable/rounded_corner"
+    android:backgroundTint="#f2d5f8"
+    android:orientation="vertical"
+    android:padding="12dp">
+
+
+    <TextView
+        android:id="@+id/med_title_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="4dp"
+        android:text="Med Name"
+        android:textColor="@color/black"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/med_timestamp_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginVertical="4dp"
+        android:text="Expiry Date"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/med_content_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="4dp"
+        android:ellipsize="end"
+        android:maxLines="2"
+        android:text="Medicine details"
+        android:textSize="17sp" />
+
+</LinearLayout>

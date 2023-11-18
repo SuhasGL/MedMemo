@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/alfa_slab_one</item>
+        <item>@font/croissant_one</item>
+        <item>@font/days_one</item>
+        <item>@font/krona_one</item>
+        <item>@font/merienda_one</item>
+        <item>@font/poller_one</item>
+        <item>@font/trispace_bold</item>
+        <item>@font/trispace_extrabold</item>
+    </array>
+</resources>

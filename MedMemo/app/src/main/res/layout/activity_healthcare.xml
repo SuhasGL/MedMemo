@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/explorebg"
+    >
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="37dp"
+        android:layout_height="40dp"
+        android:fontFamily="@font/merienda_one"
+        android:text="Hi"
+        android:textAlignment="viewEnd"
+        android:textColor="#F1EDED"
+        android:textSize="28sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.28"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.077" />
+
+    <TextView
+        android:id="@+id/nameuser"
+        android:layout_width="156dp"
+        android:layout_height="37dp"
+        android:fontFamily="@font/merienda_one"
+        android:textColor="#ECE4E4"
+        android:textSize="28sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.584"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.076" />
+
+    <EditText
+        android:id="@+id/searchEditText"
+        android:layout_width="315dp"
+        android:layout_height="48dp"
+        android:background="@drawable/rounded_corner"
+        android:backgroundTint="#EDE3E3"
+        android:ems="10"
+        android:hint="Search Medicine Name (eg.paracetamol)"
+        android:inputType="textPersonName"
+        android:textSize="17sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.512"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.203" />
+
+    <TextView
+        android:id="@+id/resultTextView"
+        android:layout_width="316dp"
+        android:layout_height="186dp"
+        android:background="@drawable/rounded_corner"
+        android:backgroundTint="#ede3e3"
+        android:fontFamily="sans-serif-medium"
+        android:padding="16dp"
+        android:textAlignment="center"
+        android:textColor="#121111"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.506"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.475" />
+
+    <ImageButton
+        android:id="@+id/searchBtn"
+        android:layout_width="46dp"
+        android:layout_height="43dp"
+        android:background="@drawable/rounded_corner"
+        android:backgroundTint="#ede3e3"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.908"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.296"
+        app:srcCompat="@drawable/ic_baseline_search_24"
+        tools:ignore="TouchTargetSizeCheck,SpeakableTextPresentCheck" />
+
+    <ImageButton
+        android:id="@+id/speaker"
+        android:layout_width="49dp"
+        android:layout_height="59dp"
+        android:onClick="convert"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.095"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.289"
+        app:srcCompat="@drawable/ic_baseline_volume_up_24" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="313dp"
+        android:layout_height="22dp"
+        android:text="empower your med insights!"
+        android:textAlignment="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.153" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

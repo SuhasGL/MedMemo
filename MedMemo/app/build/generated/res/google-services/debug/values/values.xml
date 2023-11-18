@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">9781934143-ts1h1rhilnnsm5rttndne66k8r8h0hqu.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">9781934143</string>
+    <string name="google_api_key" translatable="false">AIzaSyA1-jqUG2mrUxDZjUy4pQHhgsAAhtK5WNY</string>
+    <string name="google_app_id" translatable="false">1:9781934143:android:3874a3b9bd848f9709208a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA1-jqUG2mrUxDZjUy4pQHhgsAAhtK5WNY</string>
+    <string name="google_storage_bucket" translatable="false">medmemo-b7351.appspot.com</string>
+    <string name="project_id" translatable="false">medmemo-b7351</string>
+</resources>

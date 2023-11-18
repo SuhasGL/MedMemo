@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9781934143",
+    "project_id": "medmemo-b7351",
+    "storage_bucket": "medmemo-b7351.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9781934143:android:3874a3b9bd848f9709208a",
+        "android_client_info": {
+          "package_name": "com.example.medmemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9781934143-ts1h1rhilnnsm5rttndne66k8r8h0hqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1-jqUG2mrUxDZjUy4pQHhgsAAhtK5WNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9781934143-ts1h1rhilnnsm5rttndne66k8r8h0hqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

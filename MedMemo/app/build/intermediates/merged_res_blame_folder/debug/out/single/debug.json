@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\drawable-v24_homepage.png.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\drawable-v24\\homepage.png"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\layout_activity_healthcare.xml.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\layout\\activity_healthcare.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\font_merienda_one.xml.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\font\\merienda_one.xml"
+    },
+    {
+        "merged": "com.example.medmemo.app-merged_res-6:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.medmemo.app-main-8:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.medmemo.app-merged_res-6:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.medmemo.app-main-8:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.medmemo.app-merged_res-6:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.medmemo.app-main-8:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.medmemo.app-merged_res-6:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.medmemo.app-main-8:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\drawable-v24_img.png.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\drawable-v24\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\drawable_ic_baseline_menu_24.xml.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\drawable\\ic_baseline_menu_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\drawable_ic_baseline_volume_up_24.xml.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\drawable\\ic_baseline_volume_up_24.xml"
+    },
+    {
+        "merged": "com.example.medmemo.app-merged_res-6:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.medmemo.app-main-8:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\font_days_one.xml.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\font\\days_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\font_krona_one.xml.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\font\\krona_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\drawable-v24_healthbg.jpg.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\drawable-v24\\healthbg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\layout_activity_alarm.xml.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\layout\\activity_alarm.xml"
+    },
+    {
+        "merged": "com.example.medmemo.app-merged_res-6:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.medmemo.app-main-8:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.medmemo.app-merged_res-6:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.medmemo.app-main-8:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "com.example.medmemo.app-merged_res-6:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.medmemo.app-main-8:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\drawable-v24_homebg.png.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\drawable-v24\\homebg.png"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\font_trispace_extrabold.xml.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\font\\trispace_extrabold.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-pngs-1:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\drawable_ic_baseline_done_24.xml.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\drawable\\ic_baseline_done_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\drawable-v24_explorebg.png.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\drawable-v24\\explorebg.png"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\drawable_ic_baseline_done_all_24.xml.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\drawable\\ic_baseline_done_all_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.medmemo.app-merged_res-6:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.medmemo.app-main-8:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\drawable-v24_health.jpg.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\drawable-v24\\health.jpg"
+    },
+    {
+        "merged": "com.example.medmemo.app-merged_res-6:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.medmemo.app-main-8:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.medmemo.app-merged_res-6:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.medmemo.app-main-8:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.medmemo.app-merged_res-6:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.medmemo.app-main-8:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.medmemo.app-merged_res-6:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.medmemo.app-main-8:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\font_croissant_one.xml.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\font\\croissant_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\font_trispace_bold.xml.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\font\\trispace_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\drawable-v24_speaker.jpeg.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\drawable-v24\\speaker.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\layout_activity_mymeds.xml.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\layout\\activity_mymeds.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\drawable_rounded_corner.xml.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\drawable\\rounded_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\font_alfa_slab_one.xml.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\font\\alfa_slab_one.xml"
+    },
+    {
+        "merged": "com.example.medmemo.app-merged_res-6:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.medmemo.app-main-8:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\layout_recycler_med_item.xml.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\layout\\recycler_med_item.xml"
+    },
+    {
+        "merged": "com.example.medmemo.app-merged_res-6:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.medmemo.app-main-8:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\drawable-v24_homebg1.png.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\drawable-v24\\homebg1.png"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\drawable-v24_homeimg.png.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\drawable-v24\\homeimg.png"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\drawable-v24_medi.jpeg.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\drawable-v24\\medi.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\font_poller_one.xml.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\font\\poller_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\layout_activity_med_details.xml.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\layout\\activity_med_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\drawable-v24_signbg.jpg.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\drawable-v24\\signbg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-merged_res-6:\\drawable-v24_logincanva.png.flat",
+        "source": "C:\\Users\\sriva\\.gradle\\daemon\\7.4\\com.example.medmemo.app-main-8:\\drawable-v24\\logincanva.png"
+    }
+]

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#120E27"
+    android:orientation="vertical"
+    tools:context=".Alarm">
+
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_height="69dp"
+        android:layout_marginBottom="20dp"
+        android:background="#D4E2F3"
+        android:hint="Enter Medicine Name" />
+    <EditText
+        android:id="@+id/dosage"
+        android:layout_width="match_parent"
+        android:layout_height="69dp"
+        android:layout_marginBottom="20dp"
+        android:background="#D4E2F3"
+        android:hint="Enter Doze" />
+
+    <TimePicker
+        android:id="@+id/timePicker"
+        style="@android:style/Widget.Material.Light.TimePicker"
+        android:layout_width="match_parent"
+        android:layout_height="341dp"
+
+        android:headerBackground="#6c91bf"
+        android:numbersSelectorColor="#6c91bf"
+        android:numbersTextColor="#0E0E0E"
+        android:textAlignment="center"
+        android:timePickerMode="clock" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/set_Btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            android:backgroundTint="#6c91bf"
+            android:text="set" />
+
+        <Button
+            android:id="@+id/cancelBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            android:backgroundTint="#6c91bf"
+            android:text="cancel" />
+
+    </LinearLayout>
+
+
+</LinearLayout>
